@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>В@text</String>
+        <String>Полина@text</String>
+        <String>В@word</String>
+        <String>Полина@word</String>
+    </prefList>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Время начала</String>
+        <String>Время окончания</String>
+        <String>Слой</String>
+        <String>Инициалы</String>
+        <String>Комментарий</String>
+        <String>Ветка</String>
+        <String>Отправитель</String>
+        <String>Получатель</String>
+        <String>Дата создания</String>
+        <String>Дата изменения</String>
+    </prefList>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>1</Int>
+    </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>57.0</Float>
+    </pref>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>2</Int>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="Полина@text">
+            <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="В@text">
+            <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+    </prefGroup>
+    <pref key="SegmentationViewer.ActiveTier">
+        <String>В@text</String>
+    </pref>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Получатель</String>
+        <String>Отправитель</String>
+    </prefList>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">0,0</Object>
+    </pref>
+    <pref key="SelectionBeginTime">
+        <Long>348410</Long>
+    </pref>
+    <pref key="TokenizeDialog.SourceTier">
+        <String>Полина@text</String>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <pref key="MediaTime">
+        <Long>349164</Long>
+    </pref>
+    <pref key="SegmentationViewer.ZoomLevel">
+        <Float>100.0</Float>
+    </pref>
+    <pref key="MediaControlRate">
+        <Float>0.9</Float>
+    </pref>
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1366,768</Object>
+    </pref>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+    </prefGroup>
+    <pref key="TokenizeDialog.DestTier">
+        <String>Полина@word</String>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>Полина@text</String>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Время окончания">
+            <Int>75</Int>
+        </pref>
+        <pref key="Комментарий">
+            <Int>75</Int>
+        </pref>
+        <pref key="Слой">
+            <Int>75</Int>
+        </pref>
+        <pref key="Ветка">
+            <Int>75</Int>
+        </pref>
+        <pref key="Дата изменения">
+            <Int>75</Int>
+        </pref>
+        <pref key="Инициалы">
+            <Int>75</Int>
+        </pref>
+        <pref key="Время начала">
+            <Int>75</Int>
+        </pref>
+        <pref key="Получатель">
+            <Int>0</Int>
+        </pref>
+        <pref key="Отправитель">
+            <Int>0</Int>
+        </pref>
+        <pref key="Дата создания">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
+    </pref>
+    <pref key="SegmentationManager.SelectedTabIndex">
+        <Int>1</Int>
+    </pref>
+    <pref key="TextViewer.TierName">
+        <String>Полина@text</String>
+    </pref>
+    <pref key="TimeScaleBeginTime">
+        <Long>338720</Long>
+    </pref>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>338</Int>
+    </pref>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <pref key="SelectionEndTime">
+        <Long>354700</Long>
+    </pref>
+</preferences>
